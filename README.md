@@ -6,11 +6,13 @@ Using: Yolov5 and Tesseract in Pytorch
 
 ---------------------------------------------------------------------------------------------
 
+Step 0: clone this repository
+
 Step 1: install CUDA and cudnn (recommend).
 
 Step 2: set up an Anaconda Environment.
 
-Step 3: activate this Environment and run this command line:
+Step 3: cd to your repository's savepath, then activate the Environment and run this command line:
 
            python Main.py 
 
