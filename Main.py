@@ -49,7 +49,7 @@ def Solve(img):
         exit()
 
 os.system('cls')
-print('Choose your file!')
+print('Choose your image!')
 import easygui
 file = easygui.fileopenbox()
 os.system('cls')
@@ -100,7 +100,7 @@ if (len(sys.argv) > 1):
 else:
     print("The result is unsaved!")
 
-print('\n--- Result: ', lb_final, '(conf=' +conf_final + ')', '\n')
+print('\n--- Result: ', lb_final, '(conf=' + conf_final + ')', '\n')
 cv2.imshow(lb_final, final)
 cv2.waitKey(delay=10000)
 cv2.destroyAllWindows()
