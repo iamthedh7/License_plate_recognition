@@ -20,7 +20,7 @@ Step 3: cd to your repository's savepath, then activate the Environment and run 
     
            python Main.py 1
 
-Step 4: select your custom test image or some image in folder Testing.
+Step 4: select your custom test image or some image in folder Testing. The result image will be shown for 10s.
            
 Note: Please install the necessary libraries into the Environment by yourself when the terminal warning "missing libraries".
 
