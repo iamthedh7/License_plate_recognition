@@ -99,5 +99,5 @@ else:
 
 print('\n--- Result: ', lb_final, '(conf=' +conf_final + ')', '\n')
 cv2.imshow(lb_final, final)
-cv2.waitKey()
+cv2.waitKey(delay=10000)
 cv2.destroyAllWindows()
