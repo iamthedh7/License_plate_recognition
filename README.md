@@ -6,9 +6,9 @@ Using: Yolov5 and Tesseract in Pytorch
 
 ---------------------------------------------------------------------------------------------
 
-Step 1: install CUDA and cudnn (recommend)
+Step 1: install CUDA and cudnn (recommend).
 
-Step 2: set up an Anaconda Environment
+Step 2: set up an Anaconda Environment.
 
 Step 3: activate this Environment and run this command line:
 
@@ -18,6 +18,8 @@ Step 3: activate this Environment and run this command line:
     
            python Main.py 1
 
+Step 4: select your custom test image or some image in folder Testing.
+           
 Note: Please install the necessary libraries into the Environment by yourself when the terminal warning "missing libraries".
 
 <!-- Footer -->
