@@ -26,5 +26,7 @@ Using: Yolov5 and Tesseract in Pytorch
 _***Note:_ Please install the necessary libraries into the Environment by yourself when the terminal warning "missing libraries".
 
            
+------------------------------------------------------------------------------------------------
+           
 <!-- Footer -->
 <p align='center'>Copyright © 2022 - Duong Hai Nguyen, Tuan Nam Trinh</p>
