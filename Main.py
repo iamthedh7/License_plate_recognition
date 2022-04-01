@@ -1,6 +1,7 @@
 import torch
 import cv2
 import os
+import random
 import sys
 from Func_img2str import Img2Str
 from Func_normalize import normalize
@@ -92,6 +93,8 @@ else:
 
 if (len(sys.argv) > 1):
     if (sys.argv[1] == '1'):
+        if (lb_final == ''):
+                lb_final = 'null' + str(random.randint(0, 1000))
         cv2.imwrite('C:\\License_plate_reading\\Result\\' + lb_final + '.jpg', final)
         print('Your result was saved in: ' + 'C:\\License_plate_reading\\Result\\' + lb_final + '.jpg')
 else:
