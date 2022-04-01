@@ -8,7 +8,7 @@ Using: Yolov5 and Tesseract in Pytorch
 
 **# Step 0:** clone this repository
 
-**# Step 1:** install CUDA and cudnn (recommend).
+**# Step 1:** install CUDA and cudnn (recommend) if you're using Nvidia GPU.
 
 **# Step 2:** set up an Anaconda Environment.
 
