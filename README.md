@@ -12,8 +12,8 @@ Step 3: activate this Environment and run this command line:
 
            python Main.py 
 
-# or:       
+# or:  <if you want to save your Result>     
     
-           python Main.py 1 (if you want to save your Result)
+           python Main.py 1
 
 Note: Please install the necessary libraries into the Environment by yourself when the terminal warning "missing libraries".
