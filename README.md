@@ -1,1 +1,8 @@
-# License_plate_recognition
+# EXTRACT CONTENTS OF VIETNAM MOTOBIKE NUMBER RANGE
+
+Yolov5 and Tesseract in Pytorch
+
+
+
+
+
