@@ -10,8 +10,10 @@ Step 2: set up an Anaconda Environment
 
 Step 3: activate this Environment and run this command line:
 
-                python Main.py 
+           python Main.py 
 
-    # or:       python Main.py 1 (if you want to save your Result)
+# or:       
+    
+           python Main.py 1 (if you want to save your Result)
 
 Note: Please install the necessary libraries into the Environment by yourself when the terminal warning "missing libraries".
